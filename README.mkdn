@@ -1,0 +1,7 @@
+# What is
+
+A docker image containing
+
+- `clj`
+- `bb`
+- `nbb`
